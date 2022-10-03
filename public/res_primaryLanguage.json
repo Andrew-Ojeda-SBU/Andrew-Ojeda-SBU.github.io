@@ -69,6 +69,43 @@
           "name": "Wolfie 2D"
         }
       ]
+    },
+    {
+      "title": "Top-5-Lister",
+      "startDate": "2021",
+      "description": "Website developed for a school project that allows users to create their top 5 lists of various categories.  Each list a user creates can be viewed by other users, where they can like, dislike, and comment.  Top 5 lists of the same name will consolidate and create community lists, where each individual user's lists count as a vote for a specific item in the list, and the items with most votes will appear in the community top 5 list",
+      "images": ["images/portfolio/top-5-lister/SplashScreen.png"],
+      "url": "https://mcbendorjee-vs-robots.firebaseapp.com/",
+      "technologies": [
+        {
+          "class": "devicon-javascript-plain",
+          "name": "JavaScript"
+        },
+        {
+          "class": "devicon-react-plain",
+          "name": "React"
+        },
+        {
+          "class": "devicon-nodejs-plain",
+          "name": "Node"
+        },
+        {
+          "class": "devicon-materialui-plain",
+          "name": "MaterialUI"
+        },
+        {
+          "name": "CSS 3",
+          "class": "devicon-css3-plain"
+        },
+        {
+          "name": "HTML 5",
+          "class": "devicon-html5-plain"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain"
+        }
+      ]
     }
   ],
   "experience": [
