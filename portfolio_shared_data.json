@@ -1,0 +1,81 @@
+{
+  "basic_info": {
+    "name": "Andrew Ojeda",
+    "titles": [
+      "Front-end Developer",
+      "Back-end Developer",
+      "Game Programmer",
+      "TypeScript Programmer",
+      "C++ Programmer"
+    ],
+    "social": [
+      {
+        "name": "github",
+        "url": "https://github.com/Andrew-Ojeda-SBU/",
+        "class": "fab fa-github"
+      }
+    ],
+    "image": "myProfile.jpg"
+  },
+  "skills": {
+    "icons": [
+      {
+        "name": "TypeScript",
+        "class": "devicon-typescript-plain"
+      },
+      {
+        "name": "C++",
+        "class": "devicon-cplusplus-plain"
+      },
+      {
+        "name": "JavaScript",
+        "class": "devicon-javascript-plain"
+      },
+      {
+        "name": "React",
+        "class": "devicon-react-original"
+      },
+      {
+        "name": "Node",
+        "class": "devicon-nodejs-plain"
+      },
+      {
+        "name": "MongoDB",
+        "class": "devicon-mongodb-plain"
+      },
+      {
+        "name": "JQuery",
+        "class": "devicon-jquery-plain"
+      },
+      {
+        "name": "HTML 5",
+        "class": "devicon-html5-plain"
+      },
+      {
+        "name": "CSS 3",
+        "class": "devicon-css3-plain"
+      },
+
+      {
+        "name": "Sass",
+        "class": "devicon-sass-original"
+      },
+      {
+        "name": "Material-UI",
+        "class": "devicon-materialui-plain"
+      },
+      {
+        "name": "C#",
+        "class": "devicon-csharp-plain"
+      },
+      {
+        "name": "Java",
+        "class": "devicon-java-plain"
+      },
+      {
+        "name": "OpenGL",
+        "class": "devicon-opengl-plain"
+      }
+    ]
+  }
+}
