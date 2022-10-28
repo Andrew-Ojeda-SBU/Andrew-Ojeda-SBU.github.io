@@ -1,17 +1,18 @@
 {
   "basic_info": {
     "name": "Andrew Ojeda",
-    "titles": ["Front-end Developer", "Back-end Developer", "Game Developer"],
+    "titles": [
+      "Front-end Developer",
+      "Back-end Developer",
+      "Game Programmer",
+      "TypeScript Programmer",
+      "C++ Programmer"
+    ],
     "social": [
       {
         "name": "github",
         "url": "https://github.com/Andrew-Ojeda-SBU/",
         "class": "fab fa-github"
-      },
-      {
-        "name": "instagram",
-        "url": "https://www.instagram.com",
-        "class": "fab fa-instagram"
       }
     ],
     "image": "myProfile.jpg"

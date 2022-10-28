@@ -1,7 +1,7 @@
 {
   "basic_info": {
-    "description_header": "Hi",
-    "description": "👋 I'm Davina Griss. Fictional person for preview purposes :) I'm working with newest front-end frameworks like Angular, React and Vue. What you are seeing now is portfolio template from Dorota1997. If you like this portfolio template, make sure to ⭐ the repository to make it more recognizable for other users. Thank you 💜",
+    "description_header": "Hello! Welcome to my website",
+    "description": "My name is Andrew, I'm a computer science student at Stony Brook University with an interest in Game Programming, Web Development, UI-Programming, and Low Level Programming.  I started my programming education in my late 20s, and recently have made the jump to full time school and will graduating Fall of 2023.  I currently am taking courses for a specialization in game programming, and have been a part of the Regio Vinco team at Stony Brook since the Fall of 2021.  Currently seeking Internships for the Summer of 2023.  Outside of school I love playing guitar, writing music, audio production and engineering, Muay Thai, and spending time with my family, friends, and my girlfriend.",
     "section_name": {
       "about": "About me",
       "projects": "Projects",
@@ -44,6 +44,36 @@
           "class": "leaflet-icon",
           "name": "Leaflet.js"
         }
+      ]
+    },
+    {
+      "title": "2D Convex Hull Algorithms Demos",
+      "startDate": "2022",
+      "description": "Demonstrates 5 different algorithms involving convex hulls, specifically, Quick Hull, Point in Convex Hull, Minkowski Sum, Minkowski Difference, and GJK.  Users can click on five different buttons assigned to each algorithm in order to try each demo, and can move around various points with each demo to change the shape of the convex hulls and the outcome of the algorithms.",
+      "images": [
+        "images/portfolio/2D-convex-hull-algorithms-demos/photo1.png",
+        "images/portfolio/2D-convex-hull-algorithms-demos/photo2.png"
+      ],
+      "technologies": [
+        { "class": "devicon-cplusplus-plain", "name": "C++" },
+        { "class": "devicon-windows8-original", "name": "Windows API" }
+      ]
+    },
+    {
+      "title": "3D Sphere Collision Simulator",
+      "startDate": "2022",
+      "description": "Simulation of 3D spheres moving and colliding inside a cube. User can generate up to 10 spheres of different masses and velocities, and can toggle on and off color, textures, materials, shadow and gravity. Where sphere's collide with one another, they will change size, material, and textures.  User can also move the camera through the scene, and move the light source as well",
+      "images": [
+        "images/portfolio/3D-sphere-collision-simulator/photo2.png",
+        "images/portfolio/3D-sphere-collision-simulator/photo4.png",
+        "images/portfolio/3D-sphere-collision-simulator/photo5.png",
+        "images/portfolio/3D-sphere-collision-simulator/photo6.png",
+        "images/portfolio/3D-sphere-collision-simulator/photo1.png",
+        "images/portfolio/3D-sphere-collision-simulator/photo3.png"
+      ],
+      "technologies": [
+        { "class": "devicon-cplusplus-plain", "name": "C++" },
+        { "class": "devicon-opengl-original", "name": "OpenGL" }
       ]
     },
     {
@@ -110,28 +140,18 @@
   ],
   "experience": [
     {
-      "company": "DefOpenSource",
-      "title": "Front-End Developer",
-      "years": "10.2019 - present",
-      "mainTech": ["Angular 8/9/10"],
-      "technologies": [
-        "REST API",
-        "RxJS",
-        "JavaScript",
-        "Bootstrap",
-        "MDBootstrap",
-        "EF Core",
-        ".NET Core",
-        "SignalR",
-        "Angular Material"
-      ]
+      "company": "Long Island Veterinary Specialist",
+      "title": "Customer Service Representative",
+      "years": "08.2014 - present",
+      "mainTech": [],
+      "technologies": []
     },
     {
-      "company": "Serros Solutions",
-      "title": "Intern",
-      "years": "01.2018 - 09.2019",
-      "mainTech": ["Angular 7/8"],
-      "technologies": ["RxJS", "Django", "PHP", "JavaScript", "DHTMLX Gantt"]
+      "company": "Great Neck Vigilant Fire Department",
+      "title": "EMT-B",
+      "years": "09.2013 - 08.2014",
+      "mainTech": [],
+      "technologies": []
     }
   ]
 }
